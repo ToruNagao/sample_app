@@ -1,2 +1,2 @@
 This is a sample application from Rails tutorials
-Heroku URL
+Heroku URL: https://hidden-basin-3403.herokuapp.com/
